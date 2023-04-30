@@ -1,12 +1,18 @@
-Hi 👋 My name is Guilhermo
+Hi 👋 My name is João Marques
 ==========================
 
-Full Stack Software Developer
+## Sobre mim:
 -----------------------------
 
-I'm a 20 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+Eu sou um desenvolvedor Fullstack :smile:
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [49 campus in 28 countries](https://www.42network.org/42-schools/).
+Meu nome é João Marques e eu sou um desenvolvedor Fullstack na Universidade de Ribeirão Preto, onde também estou estudando Engenharia de Software.
+
+## About me: 
+-----------------------------
+I'm a Fullstack Developer :smile:
+
+My name is João Marques, and I'm a full-stack developer at Universidade de Ribeirão Preto, where I'm also studying Software Engineering.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
