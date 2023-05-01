@@ -1,7 +1,7 @@
 Hi 👋 My name is João Marques
 ==========================
 
-Developer Fulltack
+Developer Fullstack
 -----------------------------
 My name is João Marques, and I'm a full-stack developer at Universidade de Ribeirão Preto, where I'm also studying Software Engineering.
 
